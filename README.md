@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Vangelis Nikolopoulos
+
+
+- 🔭 I'm currently working as an Internt at TCCI
+- 🎓 Currently studying at University of Macedonia
+- 🌱 I'm currently learning about Data Science and Cybersecurity
+
+
+
+📫 How to reach me:
 
 <!--
 **vangelisnik/vangelisnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
