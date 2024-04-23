@@ -12,7 +12,7 @@ My name is Vangelis Nikolopoulos
 
 
 ### 📫 How to reach me:
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://gr.linkedin.com/in/vangelis-nikolopoulos-a951992b7)
 <!--
 **vangelisnik/vangelisnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
