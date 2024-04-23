@@ -2,8 +2,8 @@
 My name is Vangelis Nikolopoulos
 
 
-- 🔭 I'm currently working as an Internt at TCCI
-- 🎓 Currently studying at University of Macedonia
+- 🔭 I'm Currently working as an Internt at TCCI
+- 🎓 I'm Currently studying at University of Macedonia
 - 🌱 I'm currently learning about Data Science and Cybersecurity
 
 
