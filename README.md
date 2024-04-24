@@ -5,7 +5,7 @@ My name is Vangelis Nikolopoulos
 - 🔭 Currently working as an Internt at TCCI
 - 🎓 Currently studying at University of Macedonia
 - 🌱 Currently learning about Data Science and Cybersecurity
-- 😄 Excellent team player
+- 😄 Team player
 - ⚡ Here I am saving my projects
 - ⚡ I thrive on the opportunity to engage with projects
 
