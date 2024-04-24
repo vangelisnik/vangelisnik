@@ -19,11 +19,11 @@ My name is Vangelis Nikolopoulos
 ### Languages
 Here are some languages I work with:
 
-- <img src="icons/python.svg" alt="Python" height="30" style="vertical-align:middle;"> Python
-- <img src="icons/c.svg" alt="C" height="30" style="vertical-align:middle;"> C
-- <img src="icons/sql.svg" alt="SQL" height="30" style="vertical-align:middle;"> SQL
-- <img src="icons/java.svg" alt="Java" height="30" style="vertical-align:middle;"> Java
-- <img src="icons/html.svg" alt="Html" height="30" style="vertical-align:middle;"> HTML/CSS & JAVASCRIPT(Basic Knowledge)
+- <img src="icons/python.svg" alt="Python" height="30" width="30" style="vertical-align:middle;"> Python
+- <img src="icons/c.svg" alt="C" height="30" width="30" style="vertical-align:middle;"> C
+- <img src="icons/sql.svg" alt="SQL" height="30" width="30" style="vertical-align:middle;"> SQL
+- <img src="icons/java.svg" alt="Java" height="30" width="30" style="vertical-align:middle;"> Java
+- <img src="icons/html.jpg" alt="Html" height="30" width="30" style="vertical-align:middle;"> HTML/CSS & JAVASCRIPT(Basic Knowledge)
 <!--
 **vangelisnik/vangelisnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
