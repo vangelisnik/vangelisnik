@@ -19,7 +19,7 @@ My name is Vangelis Nikolopoulos
 ### Languages
 Here are some languages I work with:
 
-- ![Python](icons/python.svg) Python
+- <img src="icons/python.svg" alt="Python" height="30" style="vertical-align:middle;"> Python
 - ![C](vangelisnik/icons/c.svg) C
 - ![SQl](vangelisnik/icons/sql.svg) SQL
 - ![Java](vangelisnik/icons/java.svg) Java
